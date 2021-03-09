@@ -3,9 +3,9 @@ As you can see, this is very basic code which getting 10 objects from the user a
 Also, the algoritem needs to tell, if the input was in floating point or not.
 If it was, the average should be with floating point,and if not, the average should be shown as integer. 
 I'm sharing this assignment to help those that just started coding. and with full algoritem explnation, to help you guys learn how to build a good one.
-Although, i haven't code a long time with Python it was challanging me aswell, the syntax is very different from the languages that i used to right now... 
-so the functions were challange me as well.
-I've putted all the explanations, for almost every line in this code, to help you guys learn the basic algoritem. 
+Although, i've not coded for a very long time with Python (which was challanging for me aswell because the syntax is very different from the languages that i'm coding with right now...) 
+
+I've putted all the explanations, for almost every line in this code, to help you guys learn the basic algoritem, and develop your skills.
 
 
 Have Fun :-)
