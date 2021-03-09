@@ -1,4 +1,4 @@
-This assiment was to help a friend of mine.
+This assignment made by me to help a friend of mine.
 As you can see, this is very basic code which getting 10 objects from the user and summarize it and then divid the amount of the summerize in 10 to get the average.
 Also, the algoritem needs to tell, if the input was in floating point or not.
 If it was, the average should be with floating point,and if not, the average should be shown as integer. 
